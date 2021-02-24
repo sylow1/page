@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-$x = 2$
+$$\int_{-\infty}^\infty dx x^2 = 2$$
 
 - Bulleted
 - List
